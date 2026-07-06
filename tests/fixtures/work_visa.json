@@ -1,0 +1,30 @@
+{
+  "nationality": "Nigeria",
+  "destination_country": "Canada",
+  "visa_class": "work",
+  "purpose": "work - software engineer role",
+  "documents_present": [
+    "passport",
+    "visa_application_form",
+    "job_offer",
+    "employer_sponsorship",
+    "qualification_proof",
+    "financial_proof"
+  ],
+  "evidence_tier": "rct_empirical",
+  "financial_status": "stable",
+  "family_ties_home": [
+    "children"
+  ],
+  "employment_ties_home": [
+    "current employer leave letter"
+  ],
+  "prior_refusals": [],
+  "prior_overstays": [],
+  "criminal_history": [],
+  "health_grounds": [],
+  "assumptions": [
+    "LMIA/sponsorship approved."
+  ],
+  "confidence": "high"
+}

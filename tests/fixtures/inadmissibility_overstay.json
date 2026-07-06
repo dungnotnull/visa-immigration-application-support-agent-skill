@@ -1,0 +1,26 @@
+{
+  "nationality": "Brazil",
+  "destination_country": "United States",
+  "visa_class": "tourist",
+  "purpose": "tourist - visit family",
+  "documents_present": [
+    "passport",
+    "visa_application_form"
+  ],
+  "evidence_tier": "none",
+  "financial_status": "unknown",
+  "family_ties_home": [
+    "spouse"
+  ],
+  "employment_ties_home": [],
+  "prior_refusals": [],
+  "prior_overstays": [
+    "overstayed US B1/B2 by 90 days in 2023"
+  ],
+  "criminal_history": [],
+  "health_grounds": [],
+  "assumptions": [
+    "Overstay disclosed; no waiver filed yet."
+  ],
+  "confidence": "low"
+}

@@ -1,0 +1,31 @@
+{
+  "nationality": "India",
+  "destination_country": "United Kingdom",
+  "visa_class": "student",
+  "purpose": "student - postgraduate study",
+  "documents_present": [
+    "passport",
+    "admission_letter",
+    "financial_proof",
+    "academic_transcripts",
+    "language_proof",
+    "visa_application_form"
+  ],
+  "evidence_tier": "cohort",
+  "financial_status": "stable",
+  "family_ties_home": [
+    "parents",
+    "siblings"
+  ],
+  "employment_ties_home": [],
+  "prior_refusals": [
+    "student visa refusal for United Kingdom in 2024"
+  ],
+  "prior_overstays": [],
+  "criminal_history": [],
+  "health_grounds": [],
+  "assumptions": [
+    "Prior refusal disclosed truthfully."
+  ],
+  "confidence": "medium"
+}

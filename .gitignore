@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Generated artifacts (regenerable via tools/harness.py)
+tests/out_*.md
+out/

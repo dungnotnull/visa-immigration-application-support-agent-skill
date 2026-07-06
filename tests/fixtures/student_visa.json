@@ -1,0 +1,30 @@
+{
+  "nationality": "Vietnam",
+  "destination_country": "United States",
+  "visa_class": "student",
+  "purpose": "student - pursue a Master's degree",
+  "documents_present": [
+    "passport",
+    "admission_letter",
+    "financial_proof",
+    "academic_transcripts",
+    "language_proof"
+  ],
+  "documents_missing": [
+    "visa_application_form"
+  ],
+  "evidence_tier": "expert_opinion",
+  "financial_status": "stable",
+  "family_ties_home": [
+    "parents"
+  ],
+  "employment_ties_home": [],
+  "prior_refusals": [],
+  "prior_overstays": [],
+  "criminal_history": [],
+  "health_grounds": [],
+  "assumptions": [
+    "Applicant intends to return after studies."
+  ],
+  "confidence": "medium"
+}

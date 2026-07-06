@@ -1,0 +1,28 @@
+{
+  "nationality": "Philippines",
+  "destination_country": "Schengen",
+  "visa_class": "tourist",
+  "purpose": "tourist - sightseeing",
+  "documents_present": [
+    "passport",
+    "visa_application_form",
+    "financial_proof",
+    "travel_itinerary",
+    "accommodation_proof"
+  ],
+  "documents_missing": [
+    "ties_evidence"
+  ],
+  "evidence_tier": "expert_opinion",
+  "financial_status": "stable",
+  "family_ties_home": [],
+  "employment_ties_home": [],
+  "prior_refusals": [],
+  "prior_overstays": [],
+  "criminal_history": [],
+  "health_grounds": [],
+  "assumptions": [
+    "No dependents; between jobs."
+  ],
+  "confidence": "low"
+}
